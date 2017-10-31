@@ -1,2 +1,8 @@
-# APAN5500_data_viz
-Columbia University - APAN5500 Data Visualization - Course Materials
+# APAN5500 Data Visualization
+Columbia University   
+
+Course Materials
+
+- Elisa Yao
+
+
