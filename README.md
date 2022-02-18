@@ -3,6 +3,9 @@ Columbia University
 
 Course Materials
 
+Contributors:
 - Elisa Yao
-
+- Wenyun Yan
+- Li Dong
+- Roshni Verma
 
